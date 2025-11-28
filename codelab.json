@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2025-11-29T00:46:36+09:00",
+  "id": "today-tarot-ondevice-llm",
+  "duration": 0,
+  "title": "온디바이스 AI로 만드는 \nToday Tarot",
+  "authors": "pilju.bae",
+  "summary": "“Today Tarot — On-Device LLM Codelab”",
+  "source": "/Users/piljubae/Downloads/today_tarot_codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "android",
+    "ai",
+    "ondevice",
+    "mediapipe"
+  ],
+  "tags": [],
+  "url": "today-tarot-ondevice-llm"
+}
